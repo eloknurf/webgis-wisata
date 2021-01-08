@@ -1,0 +1,15 @@
+{
+    "name": "elok/webgis-wisata",
+    "require": {
+        "joshcam/mysqli-database-class": "*",
+        "josantonius/session": "^1.1",
+        "verot/class.upload.php": "dev-master"
+    },
+    "license": "tidak ada",
+    "authors": [
+        {
+            "name": "elok",
+            "email": "eloknurf@gmail.com"
+        }
+    ]
+}
